@@ -5,7 +5,8 @@
 
 ## 📌 主要作品
 - **待辦事項 App** (iOS & macOS)
-- **NovaOS** (web)
+- **PrismOS** (web)
+- **CiRCLEOS** (linux)
 - **meme app** (ios)
 
 ## 🛠 技術能力
